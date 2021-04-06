@@ -1,0 +1,23 @@
+{
+  "name": "restapitetris",
+  "version": "1.0.0",
+  "description": "rest api tetris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosViniciusSP/restapitetris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosViniciusSP/restapitetris/issues"
+  },
+  "homepage": "https://github.com/CarlosViniciusSP/restapitetris#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
